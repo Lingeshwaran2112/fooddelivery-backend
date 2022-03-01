@@ -1,8 +1,5 @@
 # Food Delivery
 
-<div align="center">
-  <img width="200px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
-</div>
 <br>
 
 > Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
