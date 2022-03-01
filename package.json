@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",s
+  "main": "server.js",
   "engines": {
     "node": "16.13.2",
     "npm" :"8.1.2"
